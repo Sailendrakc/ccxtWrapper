@@ -1,0 +1,3 @@
+the returned candle data object should not be writable, setting the new pointer value afterwards should not affect the original data.
+ENQ-108476-Y8F2K7
+https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/temporary-relaxation-of-working-hours-for-student-visa-holders
